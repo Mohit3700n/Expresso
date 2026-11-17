@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "68006392135",
+    "project_id": "lovify-e2935",
+    "storage_bucket": "lovify-e2935.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68006392135:android:476cf97e842b644bb6dc62",
+        "android_client_info": {
+          "package_name": "com.expresso.expresso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68006392135-o8h9713fge31teoo0jj6ku1dlc2pc6jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expresso.expresso",
+            "certificate_hash": "d9e0812ab3e76406ca141bb645ff0af8d808aba3"
+          }
+        },
+        {
+          "client_id": "68006392135-ohjgif3rt5mg4t3j6u8h8ujtj5jdpf2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRQtxerg-ttgnkxj8h9QNzKXWPN2IEv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68006392135-ohjgif3rt5mg4t3j6u8h8ujtj5jdpf2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68006392135-n7lrt48o0kkogo5m4418v799fon9gmof.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.expresso.expresso"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
